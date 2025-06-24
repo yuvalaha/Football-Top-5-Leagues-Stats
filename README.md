@@ -17,8 +17,9 @@ It includes advanced SQL analysis and a fully interactive Power BI dashboard.
 ## 📌 Tools & Technologies
 
 - SQL Server  
-- Power BI  
-- DAX & T-SQL  
+- Power BI
+- Powerquery 
+- DAX   
 - GitHub for project versioning
 
 ## 📷 Dashboard Preview
@@ -31,10 +32,10 @@ It includes advanced SQL analysis and a fully interactive Power BI dashboard.
 
 ## 🚀 Getting Started
 
-1. Load the SQL queries from `/sql_queries.sql` into your SQL Server.
+1. Load the SQL queries into your SQL Server.
 2. Connect Power BI to your database and load the data model.
 3. Explore the dashboard by selecting a team or navigating by league.
 
 ---
 
-Made with ⚽ and 📈 by [Your Name]
+Made with ⚽ and 📈 by Yuval Aharon
